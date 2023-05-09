@@ -1,0 +1,16 @@
+setuptools
+wheel
+ipykernel
+astropy
+pyerfa
+numpy
+scipy
+matplotlib
+photutils
+nbconvert
+seaborn
+pandas
+scikit-learn
+PyWavelets
+ipympl
+tqdm

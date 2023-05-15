@@ -18,6 +18,8 @@ Notebook /src/annotation.ipynb for annotation for performance evalutation.
 
 src/script for assisting program code.
 
+requirements.txt may not be up to date
+
 ## Authors
 
 JOHAN BERGMAN, ADAM JOHANSSON, JAN KULA, DAVID LAESSKER, AXEL RYD, EMRIK ÖSTLING

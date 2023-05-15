@@ -1,7 +1,5 @@
 # Starseed
 
-See description for project information.
-
 Code for Candidate/Bachelor thesis.
 
 Project report in final.pdf file

@@ -4,6 +4,8 @@ Code for Candidate/Bachelor thesis.
 
 Project report in final.pdf file
 
+Does not contain commit history due to original repo on private Chalmers GitLab.
+
 ## Project written in python.
 
 Notebooks in /src for Fourier/Median image analysis code.
